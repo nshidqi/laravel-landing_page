@@ -14,3 +14,16 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+// Halaman link buat test
+Route::get('simomen', function () {
+    return view('testsimomen');
+});
+
+Route::get('qerja', function () {
+    return view('testqerja');
+});
+
+Route::get('nextapp', function () {
+    return view('testnextapp');
+});
