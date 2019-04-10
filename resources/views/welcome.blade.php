@@ -65,7 +65,7 @@
 		</div>
 		<!-- /.container-fluid -->
 	</nav>
-	<header id="home">
+	<header id="home" style="background:url('/img/lintas-header.jpg');">
 		<div class="container">
 			<div class="table">
 				<div class="header-text">
@@ -405,7 +405,7 @@
 			</div>
 		</div>
 	</div> -->
-	<footer>
+	<footer style="background:url('/img/lintas-footer.jpg');">
 		<div class="container">
 			<!--<div class="row">
 				<div class="col-sm-6 text-center-mobile">
@@ -429,7 +429,7 @@
 			</div>-->
 			<div class="row bottom-footer text-center-mobile">
 				<div class="col-sm-8">
-					<p>&copy; 2019 All Rights Reserved. PT Aplikasinusa Lintasarta</a></p>
+					<p style="color:white">&copy; 2019 All Rights Reserved. PT Aplikasinusa Lintasarta</a></p>
 				</div>
 				<!--<div class="col-sm-4 text-right text-center-mobile">
 					<ul class="social-footer">
